@@ -6,11 +6,11 @@ In this course, we will learn the mechanics of editing and compiling programs in
 
 This course includes the following units:
 
-Unit 1: Introduction and Setup
-Unit 2: Structuring Program Code
-Unit 3: Working with Simple Data Structures
-Unit 4: Object-Oriented Programming
-Unit 5: Advanced Concepts
+- Unit 1: Introduction and Setup
+- Unit 2: Structuring Program Code
+- Unit 3: Working with Simple Data Structures
+- Unit 4: Object-Oriented Programming
+- Unit 5: Advanced Concepts
 
 Course Learning Outcomes
 Upon successful completion of this course, you will be able to:
