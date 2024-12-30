@@ -1,0 +1,3 @@
+Unit 1: Introduction and Setup
+
+This unit presents a brief history of C++ before addressing the mechanics of editing and compiling simple programs in C++
