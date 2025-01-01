@@ -1,0 +1,11 @@
+This unit focuses on implementing simple control structures. 
+
+First, 
+We will learn how to use conditional and iteration structures to make decisions and to repeat code. 
+We will then discuss how to use debugging tools to test and troubleshoot these structures. 
+We will also explore how to break our code into smaller, more manageable pieces by putting certain common pieces into functions. 
+We will also discus scope, as well as passing variables by value and by reference. 
+
+Finally, we explore a special type of class, the string, which has some special functions that allow us to manipulate text. 
+By introducing classes and how they are used here, we will be ready to tackle object-oriented programming in the next unit.
+
