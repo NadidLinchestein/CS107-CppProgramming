@@ -1,1 +1,1 @@
-Discription of different functions that are part of the string class in C++.
+Description of different functions that are part of the string class in C++.
