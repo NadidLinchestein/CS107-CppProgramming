@@ -1,0 +1,17 @@
+Question 6: What will the program output if we initialize the first variable to be the same as the last variable?
+
+
+A) The do while-loop will output something, but nothing else will.
+
+B) The while-loop will output something, but nothing else will.
+
+C) Each loop will output one line.
+
+D) The do while-loop will output 2 lines, and the other loops one line.
+
+E) It will output nothing
+
+F) The for-loop will output something, but nothing else will.
+
+
+Answer - C

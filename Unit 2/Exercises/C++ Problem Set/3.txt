@@ -1,0 +1,15 @@
+Question 3: Given the original program at the top of this page, assume we have removed the line that initializes the counter variable before the while loop. What would happen if we also remove the counter++ line inside the while-loop, as in the following?
+
+
+A) The while loop outputs nothing.
+
+B) The while loop outputs 1 and 1; the do-while loop outputs nothing.
+
+C) The output of the while loop is the same as when both lines are included.
+
+D) The system will output random numbers until we turn the computer off.
+
+E) The while loop is an Infinite loop
+
+
+Answer - A

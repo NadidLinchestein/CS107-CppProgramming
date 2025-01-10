@@ -1,0 +1,15 @@
+Question 5: What would happen if the first variable is greater than the last?
+
+
+A) The while-loop will output something, but nothing else will.
+
+B) The do while-loop will output something, but nothing else will.
+
+C) There will be no output at all.
+
+D) The program will seg fault or crash
+
+E) The for-loop will output something, but nothing else will.
+
+
+Answer - B

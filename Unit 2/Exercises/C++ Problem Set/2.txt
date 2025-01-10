@@ -1,0 +1,15 @@
+Question 2: What would happen if we remove the initialization of "counter" prior to the do-while loop?
+
+
+A) An Infinite loop - the do-while loop will output a series of 1's
+
+B) The program's output will not change
+
+C) The do-while loop outputs 2 and 4.
+
+D) The do-while loop will output nothing
+
+E) The do-while loop outputs 3 and 9.
+
+
+Answer - E

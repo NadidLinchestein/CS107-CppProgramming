@@ -1,0 +1,30 @@
+Question 4: Given the original program at the top of this page, what would happen if the while loop looked like this?
+
+counter = first;
+
+while (counter <= last) {
+  cout << "\n" << counter;
+  
+  if (first % 2 == 0)
+    next = counter * counter;
+  
+  cout << "  " << next;
+  
+  counter++;
+}
+
+
+A) The output of the while loop is the same as in the original program.
+
+B) The while loop will not output anything
+
+C) The output of the while loop is 1 1 and 1 4.
+
+D) The output of the while loop is 1 2 and 2 4.
+
+E) The output of the while loop is 1 4 and 2 4.
+
+F) The output of the while loop is 2 4 and 2 4.
+
+
+Answer - E
